@@ -1,5 +1,8 @@
 # 🚲 Yulu Business Case Study - Bike Rental Demand Analysis
 
+![Yulu Banner](image.png)
+
+
 ## 📖 Overview  
 Yulu is a bike-sharing service providing eco-friendly transportation in urban areas. However, rental demand fluctuates due to factors such as seasons, weather conditions, working days, and holidays. A lack of strategic planning can lead to inefficiencies in bike distribution, revenue loss, and user dissatisfaction.  
 
