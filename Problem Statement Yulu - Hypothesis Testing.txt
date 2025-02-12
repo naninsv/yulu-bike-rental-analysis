@@ -1,0 +1,67 @@
+Problem Statement: Yulu - Hypothesis Testing
+
+1. Background
+Yulu, a leading micro-mobility provider in India, offers shared electric cycles to urban commuters. However, Yulu faces significant fluctuations in rental demand, leading to inefficient fleet management, revenue losses, and operational challenges. Several factors may influence bike rental demand, including:
+
+Weather conditions (rain, temperature, humidity, wind speed)
+
+Seasonal variations (summer, winter, monsoon)
+
+Holidays and working days (weekday vs. weekend impact)
+
+Time of the day (morning vs. evening usage patterns)
+
+Currently, Yulu lacks a data-driven understanding of how these factors impact rental behavior, leading to:
+
+Bikes sitting idle in low-demand areas while being unavailable in high-demand zones.
+
+No dynamic pricing strategy based on weather and peak times, leading to lost revenue opportunities.
+
+Operational inefficiencies due to poor bike allocation, causing rider dissatisfaction.
+
+2. Problem Statement
+Yulu needs to identify the key factors influencing shared electric cycle demand to improve fleet management, pricing strategies, and customer satisfaction. This project aims to analyze historical bike rental data using hypothesis testing and statistical analysis to determine whether factors such as weather, seasonality, working days, and holidays significantly impact rental counts. The insights derived will help Yulu optimize operations, enhance user experience, and increase profitability.
+
+3. Key Challenges & Issues
+
+Unclear demand patterns – Yulu does not have a clear model to predict when and where demand will rise or fall.
+
+Inefficient bike allocation – Lack of insights results in overstocking in some areas and shortages in others.
+
+Revenue loss – No data-driven dynamic pricing model based on peak hours, seasons, or weather.
+
+Customer dissatisfaction – Riders often struggle to find bikes during peak hours due to poor deployment strategies.
+
+4. Key Questions to Answer
+
+Does bike rental demand significantly differ between working days and weekends?
+
+How do weather conditions (rain, humidity, wind speed) impact rental counts?
+
+Are bike rentals significantly different across seasons (summer, winter, monsoon)?
+
+Is there a dependency between season and weather conditions, or do they act independently?
+
+5. Approach to Solve the Problem
+
+Conduct Exploratory Data Analysis (EDA) to uncover patterns in rental demand.
+
+Perform Hypothesis Testing to validate assumptions using statistical methods:
+
+Two-Sample T-Test (Comparing working days vs. non-working days)
+
+ANOVA & Kruskal-Wallis Test (Seasonal and weather-based demand variation)
+
+Chi-Square Test (Dependency between season and weather conditions)
+
+Derive Business Insights & Recommendations to optimize bike allocation and revenue strategies.
+
+6. Expected Outcomes & Business Impact
+
+Optimized bike distribution – Ensuring bikes are available when and where needed.
+
+Improved revenue strategies – Implementing dynamic pricing based on weather & peak demand.
+
+Enhanced customer experience – Reducing unavailability issues and improving accessibility.
+
+Data-driven decision-making – Enabling Yulu to predict demand fluctuations and adapt accordingly.
