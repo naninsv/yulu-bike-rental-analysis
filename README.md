@@ -126,7 +126,7 @@ This project aims to analyze historical bike rental data to:
 
 ## 🔧 **Tech Stack Used**  
 - **Programming Language**: Python 🐍  
-- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, SciPy, StatsModels  
+- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, SciPy, StatsModels
 
 ---
 
